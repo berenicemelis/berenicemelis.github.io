@@ -1688,7 +1688,8 @@
 	}
 
 	p {
-	text-align: justify;
+		/*
+	text-align: justify; */
 	font-size: 15px;
 	}
 
@@ -1948,6 +1949,7 @@
 			list-style: none;
 			padding-left: 0;
 			margin: -1em 0 2em -1em;
+			align-content: center;
 		}
 
 			ul.icons li {
